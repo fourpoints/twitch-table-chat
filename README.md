@@ -1,2 +1,5 @@
 # twitch-table-chat
-A chat reader for Twitch channels
+A terminal-based chat reader for Twitch channels
+
+# example
+![Chat table](https://i.imgur.com/1CU9gGW.png)
